@@ -5,3 +5,5 @@ server:
     key-store-type: JKS
     key-password: password
   port: 8443
+
+#keytool -genkey -alias https-example -storetype JKS -keystore https-example.jks -keyalg RSA -keysize 2048 -validity 365
