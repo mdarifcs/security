@@ -8,7 +8,7 @@ public class MainResource {
 
 	@GetMapping("/getData")
 	public String getMessage() {
-		return "Accessed By HTTPS Protocol";
+		return "Accessed By HTTPS Protocol ";
 	}
 
 }
