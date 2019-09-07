@@ -2,6 +2,6 @@ server:
   ssl:
     key-alias: https-example
     key-store: classpath:https-example.jks
-    key-store-type: 
-    key-password: 
-  port: 7777
+    key-store-type: JKS
+    key-password: password
+  port: 8443

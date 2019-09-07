@@ -11,7 +11,7 @@
 	<groupId>com.example.https</groupId>
 	<artifactId>https-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>http-example</name>
+	<name>https-example</name>
 	<description>Https Protocol Example</description>
 
 	<properties>
